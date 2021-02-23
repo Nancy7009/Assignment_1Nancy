@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_1Nancy</string>
+    <string name="Button_id">Higher</string>
+    <string name="Button2_id">Lower</string>
+    <string name="Image_id">DiceImg</string>
+    <string name="Image_id2">DiceImg2</string>
+    <string name="Result">Result</string>
+    <string name="Blank_string"></string>
+</resources>
